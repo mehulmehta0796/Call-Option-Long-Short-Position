@@ -1,7 +1,7 @@
 # Call-Option-Long-Short-Position
-Call Option - Long & Short Position
 
 What is a Call Option?
+
 A call option is a financial contract that gives the holder (the buyer) the right, but not the obligation, to buy a specific quantity of an underlying asset at a predetermined price (known as the strike or exercise price) within a specified period of time (until expiration). This underlying asset can be a stock, bond, commodity, currency, or even another financial derivative.
 
 Key components of a call option:
